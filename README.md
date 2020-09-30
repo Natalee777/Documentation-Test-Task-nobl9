@@ -4,7 +4,7 @@
 * Copy and Paste the following public repository URL into your Browser: 
 https://github.com/nobl9/writingtest
 
-* Click the Fork Icon to fork the public repository
+* Click the Fork Icon to Fork the public repository
 
 ![Screenshot Fork_Icon](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/ForkIcon.png)
 
