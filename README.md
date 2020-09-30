@@ -60,6 +60,7 @@ The command contains the URL obtained previously.
 You should see README.md marked as modified  
 
 * Run the following command to add this change:
+
 ```$ git add README.md```
 
 The command contains the name of the modified file.
