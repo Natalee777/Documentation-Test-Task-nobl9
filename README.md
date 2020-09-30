@@ -6,7 +6,7 @@ https://github.com/nobl9/writingtest
 
 * Click the Fork Icon to fork the public repository
 
-![Screenshot 1](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/Screenshot%202020-09-30%20at%209.24.39%20AM.png)
+![Screenshot Fork_Icon](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/ForkIcon.png)
 
 Fork creates a copy of the repository in your Github account for further changes.
 
