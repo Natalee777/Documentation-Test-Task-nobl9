@@ -69,3 +69,5 @@ The command contains the name of the modified file.
 * Run the following command to commint the changes:
 
 ```$ git commit -m "Add a comment about the change"```
+
+* Run ```$ git status``` command again to check that everything is up to date.
