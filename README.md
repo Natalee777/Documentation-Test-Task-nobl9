@@ -45,9 +45,15 @@ The command contains the URL obtained previously.
 ## Pushing the changes to your fork
 
 * Edit the README.md file in TextEdit or other Mac text editor. Save your changes.
-* Run the following command to get into the writingtest directory on your Mac
+* Run the following command to get into the writingtest directory on your Mac:
 
 ```$ cd writingtest```
 
-Run the following command to 
+* Run the following command to see a hidden git folder in your writingtest directory:
+
+```$ git init```
+
+* Run the following command to see the current status of your local repository:
+
+```$ git status```
 
