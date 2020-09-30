@@ -95,3 +95,4 @@ Make sure the base repository is the public repository were changes should be ap
 
 * Type a Title and Description for your Pull Request
 
+* Press **Create pull request** button
