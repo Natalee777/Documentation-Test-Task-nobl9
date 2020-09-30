@@ -19,3 +19,8 @@ Fork creates a copy of the repository in your Github account for further change
 Paste this command in your MacOS Terminal to install homebrew:
 
 ```bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)```
+
+Install git:
+
+```$ brew install git```
+
