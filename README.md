@@ -62,9 +62,11 @@ The command contains the URL obtained previously.
 
 ```$ git status```
 
+You should see README.md marked as modified
+
 ![Screenshot Output_Terminal](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/Output%20Terminal.png)
 
-You should see README.md marked as modified  
+ 
 
 * Run the following command to add this change:
 
