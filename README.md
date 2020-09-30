@@ -92,6 +92,7 @@ The command contains the name of the modified file.
 ![Screenshot New_Pull_Request](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/New%20Pull%20Request.png)
 
 * Click **compare across fork** to compare your repository with public repository
+![Screenshot Compare_Across_Forks]https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/Compare%20Across%20Forks.png
 
 Make sure the base repository is the public repository were changes should be applied while head repository contains the changes.  
 
