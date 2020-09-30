@@ -16,19 +16,19 @@ Fork creates a copy of the repository in your Github account for further change
 * Paste this command in your MacOS Terminal to install [homebrew](https://brew.sh):
 
 ```bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)```
-* Install Git:
+* Install **Git**:
 
 ```$ brew install git```
-* Set your user name in Git:
+* Set your user name in **Git**:
 
 ```$ git config --global user.name “your_user_name”```
-* Confirm that you have set the user name correctly in Git:
+* Confirm that you have set the user name correctly in **Git**:
 
 ```$ git config --global user.name```
-* Set your e-mail in Git: 
+* Set your e-mail in **Git**: 
 
 ```$ git config --global user.email “your_e-mail@example.com“```
-* Confirm that you have set the e-mail correctly in Git:
+* Confirm that you have set the e-mail correctly in **Git**:
 
 ```$ git config --global user.email```
 
