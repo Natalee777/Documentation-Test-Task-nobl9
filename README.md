@@ -61,5 +61,8 @@ You should see README.md marked as modified
 
 * Run the following command to add this change:
 ```$ git add README.md```
+
 The command contains the name of the modified file.
+
+* Run ```$ git status``` command again to see the changes ready to be commited.
 
