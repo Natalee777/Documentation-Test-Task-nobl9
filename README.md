@@ -71,7 +71,7 @@ The command contains the name of the modified file.
 
 ```$ git commit -m "Add a comment about the change"```
 
-* Run ```$ git status``` command again to check that everything is up to date.
+* Run ```$ git status``` command again to check that everything is up to date
 
 * Run the following command to see what remote repository on Github our local repository is connected to:
 
