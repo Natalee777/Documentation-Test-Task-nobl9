@@ -89,6 +89,8 @@ The command contains the name of the modified file.
 
 * Click **New Pull Request** button to create your Pull Request
 
+![Screenshot New_Pull_Request](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/New%20Pull%20Request.png)
+
 * Click **compare across fork** to compare your repository with public repository
 
 Make sure the base repository is the public repository were changes should be applied while head repository contains the changes.  
