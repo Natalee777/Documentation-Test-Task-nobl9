@@ -66,3 +66,5 @@ The command contains the name of the modified file.
 
 * Run ```$ git status``` command again to see the changes ready to be commited.
 
+* Run the following command to commint the changes:
+```$ git commit -m "Add a comment about the change"```
