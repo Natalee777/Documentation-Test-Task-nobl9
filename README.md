@@ -36,6 +36,7 @@ Fork creates a copy of the repository in your Github account for further change
 *  Run the following command to clone your fork repository:
 
 ```$ git clone https://github.com/Natalee777/writingtest.git```
+
 The command contains the URL obtained previously.
 
 
