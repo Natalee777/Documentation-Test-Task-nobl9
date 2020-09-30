@@ -2,7 +2,8 @@
 ## GitHub login
 * Sign in to your [GitHub](https://github.com/login) Account. If you’ve never used GitHub before, get a [GitHub](https://github.com) Account
 * Copy and Paste the following public repository URL into your Browser: 
-https://github.com/nobl9/writingtest
+https://github.com/nobl9/
+
 * Click the Fork Icon to fork the public repository
 
 ![Screenshot 1](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/Screenshot%202020-09-30%20at%209.24.39%20AM.png)
@@ -33,8 +34,9 @@ Fork creates a copy of the repository in your Github account for further change
 
 ## Cloning your fork repository
 
-* Go to your own Github repository and you will see a repository named writingtest.
-* Click Clone button in writingtest repository to get the HTTP URL.
+* Go to your own Github repository and you will see a repository named 
+.
+* Click Clone button in **writingtest** repository to get the HTTP URL.
 *  Run the following command to clone your fork repository:
 
 ```$ git clone https://github.com/Natalee777/writingtest.git```
@@ -45,11 +47,11 @@ The command contains the URL obtained previously.
 ## Pushing the changes to your fork
 
 * Edit the README.md file in TextEdit or other Mac text editor. Save your changes.
-* Run the following command to get into the writingtest directory on your Mac:
+* Run the following command to get into the **writingtest** directory on your Mac:
 
 ```$ cd writingtest```
 
-* Run the following command to see a hidden git folder in your writingtest directory:
+* Run the following command to see a hidden git folder in your **writingtest** directory:
 
 ```$ git init```
 
