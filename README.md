@@ -82,3 +82,7 @@ The command contains the name of the modified file.
 * Run the following command to push the changes to the repository:
 
 ```$ git push origin master```
+
+* Make sure your remote repository has been updated on Github
+
+## Merging your commit into the repo
