@@ -37,6 +37,7 @@ Fork creates a copy of the repository in your Github Account for further change
 * Go to your own Github repository and you will see a repository named **writingtest**
 
 * Click **Code** button in **writingtest** repository to get the HTTP URL
+![Screenshot Get_Code](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/GetCode.png)
 
 *  Run the following command to clone your fork repository:
 
