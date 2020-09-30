@@ -34,7 +34,7 @@ Fork creates a copy of the repository in your Github account for further change
 
 ## Cloning your fork repository
 
-* Go to your own Github repository and you will see a repository named 
+* Go to your own Github repository and you will see a repository named **writingtest**.
 .
 * Click Clone button in **writingtest** repository to get the HTTP URL.
 *  Run the following command to clone your fork repository:
