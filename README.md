@@ -8,7 +8,7 @@ https://github.com/nobl9/writingtest
 
 ![Screenshot Fork_Icon](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/ForkIcon.png)
 
-Fork creates a copy of the repository in your Github account for further changes.
+Fork creates a copy of the repository in your Github Account for further changes.
 
 ## Cloning the fork using Git command line
 ### Installing git command line tools on a Mac
