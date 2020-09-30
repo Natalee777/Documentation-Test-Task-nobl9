@@ -4,7 +4,7 @@
 * Copy and Paste the following public repository URL into your Browser: 
 https://github.com/nobl9/writingtest
 * Click the Fork Icon to fork the public repository
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Screenshot 1](https://octodex.github.com/images/yaktocat.png)
 Fork creates a copy of the repository in your Github account for further changes.
 
 ## Cloning the fork using Git command line
