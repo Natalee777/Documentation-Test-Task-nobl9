@@ -80,6 +80,8 @@ The command contains the name of the modified file.
 
 ```$ git commit -m "Add a comment about the change"```
 
+![Screenshot Output_Terminal_3](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/Output%20Teminal%203.png)
+
 * Run ```$ git status``` command again to check that everything is up to date
 
 * Run the following command to see what remote repository on Github our local repository is connected to:
