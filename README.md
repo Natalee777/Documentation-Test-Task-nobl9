@@ -87,9 +87,9 @@ The command contains the name of the modified file.
 
 ## Merging your commit into the public repository
 
-* Click New Pull Request button to create your Pull Request
+* Click **New Pull Request** button to create your Pull Request
 
-*Click **compare across fork** to compare your repository with public repository
+* Click **compare across fork** to compare your repository with public repository
 
-*  Make sure the base repository is the public repository were changes should be applied while head repository contains what you would like to be applied you 
+Make sure the base repository is the public repository were changes should be applied while head repository contains the changes.  
 
