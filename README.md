@@ -7,7 +7,7 @@ https://github.com/nobl9/writingtest
 
 Fork creates a copy of the repository in your Github account for further changes.
 
-## Cloning the fork using git command line
+## Cloning the fork using Git command line
 ### Installing git command line tools on a Mac
 
 * Paste this command in your MacOS Terminal to install [homebrew](https://brew.sh):
