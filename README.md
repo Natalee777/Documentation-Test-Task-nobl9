@@ -16,7 +16,7 @@ Fork creates a copy of the repository in your Github account for further change
 ## Cloning the fork using git command line
 ### Installing git command line tools on a Mac
 
-Paste this command in your MacOS Terminal to install homebrew:
+Paste this command in your MacOS Terminal to install [homebrew](https://brew.sh):
 
 ```bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)```
 
