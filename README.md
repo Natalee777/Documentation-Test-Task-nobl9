@@ -85,4 +85,4 @@ The command contains the name of the modified file.
 
 * Make sure your remote repository has been updated on Github
 
-## Merging your commit into the repo
+## Merging your commit into the public repository
