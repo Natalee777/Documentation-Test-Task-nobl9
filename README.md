@@ -1,9 +1,5 @@
-# Documentation-Test-Task-nobl9
-## Tutorial
-
-How to fork, clone & push your changes using git command line on a Mac. 
-
-### GitHub login
+# How to fork, clone & push your changes using git command line on a Mac.
+## GitHub login
 
 Sign in to your GitHub Account .
 If you’ve never used GitHub before, get a GitHub Account.
