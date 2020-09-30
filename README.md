@@ -87,7 +87,7 @@ The command contains the name of the modified file.
 
 ## Merging your commit into the public repository
 
-* Click **New Pull Request** button to create your Pull Request
+* Click **New pull request** button to create your Pull Request
 
 ![Screenshot New_Pull_Request](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/New%20Pull%20Request.png)
 
