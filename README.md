@@ -40,7 +40,7 @@ Confirm that you have set the e-mail correctly in Git:
 
 ```$ git config --global user.email```
 
-Cloning your fork repository
+## Cloning your fork repository
 
 Go to your own Github repository and you will see a repository named writingtest.
 
@@ -53,7 +53,7 @@ Run the following command to clone your fork repository:
 The command contains the URL obtained previously.
 
 
-Pushing the changes to your fork
+## Pushing the changes to your fork
 
 Edit the README.md file in TextEdit or other Mac text editor.
 Save your changes.
