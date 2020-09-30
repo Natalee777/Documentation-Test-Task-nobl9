@@ -62,7 +62,7 @@ The command contains the URL obtained previously.
 
 ```$ git status```
 
-![Screenshot Output_Terminal] (https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/Output%20Terminal.png)
+![Screenshot Output_Terminal](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/Output%20Terminal.png)
 
 You should see README.md marked as modified  
 
