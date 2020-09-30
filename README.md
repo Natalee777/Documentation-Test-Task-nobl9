@@ -93,5 +93,5 @@ The command contains the name of the modified file.
 
 Make sure the base repository is the public repository were changes should be applied while head repository contains the changes.  
 
-* Type a title and description for your Pull Request
+* Type a Title and Description for your Pull Request
 
