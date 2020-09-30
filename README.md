@@ -84,6 +84,8 @@ The command contains the name of the modified file.
 
 * Run ```$ git status``` command again to check that everything is up to date
 
+![Screenshot Output_Terminal_4](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/Output%20Terminal%204.png)
+
 * Run the following command to see what remote repository on Github our local repository is connected to:
 
 ```$ git remote -v```
