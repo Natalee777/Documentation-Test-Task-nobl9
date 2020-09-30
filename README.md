@@ -90,6 +90,8 @@ The command contains the name of the modified file.
 
 ```$ git remote -v```
 
+![Screenshot Output_Terminal_5](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/Output%20Terminal%205.png)
+
 * Run the following command to push the changes to the repository:
 
 ```$ git push origin master```
