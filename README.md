@@ -100,4 +100,6 @@ The command contains the name of the modified file.
 ![Screenshot Base_Compare_Master](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/BaseCompareMaster.png)
 * Type a Title and Description for your Pull Request
 
+![Screenshot Title_Details](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/TitleDetails.png)
+
 * Press **Create pull request** button
