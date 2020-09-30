@@ -95,9 +95,10 @@ The command contains the name of the modified file.
 
 ![Screenshot Compare_Across_Forks](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/Compare%20Across%20Forks.png)
 
-* Make sure the base repository is the public repository where changes should be applied while head repository contains the changes.  
+* Make sure the base repository is the public repository where changes should be applied while head repository contains the changes  
 
 ![Screenshot Base_Compare_Master](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/BaseCompareMaster.png)
+
 * Type a Title and Description for your Pull Request
 
 ![Screenshot Title_Details](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/TitleDetails.png)
