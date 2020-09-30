@@ -1,4 +1,4 @@
-# How to fork, clone & push your changes using git command line on a Mac
+# How to fork, clone push & merge your changes using git command line on a Mac
 ## GitHub login
 * Sign in to your [GitHub](https://github.com/login) Account. If you’ve never used GitHub before, get a [GitHub](https://github.com) Account
 * Copy and Paste the following public repository URL into your Browser: 
