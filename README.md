@@ -66,8 +66,6 @@ You should see README.md marked as modified
 
 ![Screenshot Output_Terminal](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/Output%20Terminal.png)
 
- 
-
 * Run the following command to add this change:
 
 ```$ git add README.md```
@@ -75,6 +73,8 @@ You should see README.md marked as modified
 The command contains the name of the modified file.
 
 * Run ```$ git status``` command again to see the changes ready to be commited.
+
+![Screenshot Output_Terminal_2](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/Output%20Teminal%202.png)
 
 * Run the following command to commit the changes:
 
