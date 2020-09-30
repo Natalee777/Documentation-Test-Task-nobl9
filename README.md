@@ -97,6 +97,7 @@ The command contains the name of the modified file.
 
 * Make sure the base repository is the public repository were changes should be applied while head repository contains the changes.  
 
+![Screenshot Base_Compare_Master](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/BaseCompareMaster.png)
 * Type a Title and Description for your Pull Request
 
 * Press **Create pull request** button
