@@ -96,6 +96,8 @@ The command contains the name of the modified file.
 
 ```$ git push origin master```
 
+![Screenshot Output_Terminal_6](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/Output%20Terminal%206.png)
+
 * Make sure your remote repository has been updated on Github
 
 ## Merging your commit into the public repository
