@@ -32,10 +32,12 @@ Fork creates a copy of the repository in your Github Account for further change
 
 ```$ git config --global user.email```
 
-## Adding a new SSH key to your GitHub account (optional)
+### Adding a new SSH key to your GitHub account (optional)
+* Run the following command in your MacOs Terminal to generate a new SSH key
 
+```ssh-keygen -t rsa -b 4096 -C "your_email@example.com"```
 
-## Cloning your fork repository
+### Cloning your fork repository
 
 * Go to your own Github repository and find the repository named **writingtest**
 
