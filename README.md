@@ -41,6 +41,11 @@ Fork creates a copy of the repository in your Github Account for further change
 
 ![Screenshot SSH_key](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/SSH%20key%20Output.png)
 
+* Run the following command in your MacOs Terminal to start the ssh-agent in the background
+
+```eval "$(ssh-agent -s)"```
+
+
 ### Cloning your fork repository
 
 * Go to your own Github repository and find the repository named **writingtest**
