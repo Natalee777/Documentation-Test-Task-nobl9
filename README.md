@@ -18,19 +18,19 @@ Fork creates a copy of the repository in your Github Account for further change
 ```bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)```
 * Install **Git**
 
-```$ brew install git```
+```brew install git```
 * Set your user name in **Git**
 
-```$ git config --global user.name “your_user_name”```
+```git config --global user.name “your_user_name”```
 * Confirm that you have set the user name correctly in **Git**
 
 ```$ git config --global user.name```
 * Set your e-mail in **Git**
 
-```$ git config --global user.email “your_e-mail@example.com“```
+```git config --global user.email “your_e-mail@example.com“```
 * Confirm that you have set the e-mail correctly in **Git**
 
-```$ git config --global user.email```
+```git config --global user.email```
 
 ### Adding a new SSH key to your GitHub account (optional)
 
@@ -64,7 +64,7 @@ Fork creates a copy of the repository in your Github Account for further change
 
 *  Run the following command in your MacOS Terminal to clone your fork repository
 
-```$ git clone https://github.com/Natalee777/writingtest.git```
+```git clone https://github.com/Natalee777/writingtest.git```
 
 The command contains the URL obtained previously.
 
@@ -74,15 +74,15 @@ The command contains the URL obtained previously.
 * Edit the *README.md* file in TextEdit or other Mac text editor. Save your changes
 * Run the following command to get into the **writingtest** directory on your Mac
 
-```$ cd writingtest```
+```cd writingtest```
 
 * Run the following command to see a hidden git folder in your **writingtest** directory
 
-```$ git init```
+```git init```
 
 * Run the following command to see the current status of your local repository
 
-```$ git status```
+```git status```
 
 You should see *README.md* marked as modified.
 
@@ -90,33 +90,33 @@ You should see *README.md* marked as modified.
 
 * Run the following command to add this change
 
-```$ git add README.md```
+```git add README.md```
 
 The command contains the name of the modified file.
 
-* Run ```$ git status``` command again to see the changes ready to be commited
+* Run ```git status``` command again to see the changes ready to be commited
 
 ![Screenshot Output_Terminal_2](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/Output%20Teminal%202.png)
 
 * Run the following command to commit the changes
 
-```$ git commit -m "Add a comment about the change"```
+```git commit -m "Add a comment about the change"```
 
 ![Screenshot Output_Terminal_3](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/Output%20Teminal%203.png)
 
-* Run ```$ git status``` command again to check that everything is up to date
+* Run ```git status``` command again to check that everything is up to date
 
 ![Screenshot Output_Terminal_4](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/Output%20Terminal%204.png)
 
 * Run the following command to see what remote repository on Github our local repository is connected to
 
-```$ git remote -v```
+```git remote -v```
 
 ![Screenshot Output_Terminal_5](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/Output%20Terminal%205.png)
 
 * Run the following command to push the changes to the repository
 
-```$ git push origin master```
+```git push origin master```
 
 ![Screenshot Output_Terminal_6](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/Output%20Terminal%206.png)
 
