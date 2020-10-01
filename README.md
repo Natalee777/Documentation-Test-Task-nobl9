@@ -64,7 +64,7 @@ Fork creates a copy of the repository in your Github Account for further change
 
 * Click **New SSH key**
 
-* Add a descriptive label in the "Title field". For example, "Personal MacBook Air"
+* Add a descriptive label in the "Title" field. For example, "Personal MacBook Air"
 
 * Paste your key into the "Key" field
 
