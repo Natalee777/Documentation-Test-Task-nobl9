@@ -81,9 +81,11 @@ Fork creates a copy of the repository in your Github Account for further change
 * If prompted, confirm your GitHub password
 
 
-### Cloning your fork repository (recommended) 
+### Cloning your fork repository
 
 * Go to your own Github repository and find the repository named **writingtest**
+
+**Option 1: cloning your fork repository  using HTTPS**
 
 * Click **Code** button in **writingtest** repository to get the HTTP URL
 
@@ -95,11 +97,13 @@ Fork creates a copy of the repository in your Github Account for further change
 
 The command contains the URL obtained previously.
 
-### Cloning your fork repository (prerequisite: SSH key added to your Github Account, optional)
-
-* Go to your own Github repository and find the repository named **writingtest**
+**Option 2: cloning your fork repository using SSHkey, prerequisite: SSH key added to your Github Account, optional**
 
 * Click **Code** button in **writingtest** repository to get the SSH key
+
+*  Run the following command in your MacOS Terminal to clone your fork repository
+
+```git clone https://github.com/Natalee777/writingtest.git```
 
 ## Pushing the changes to your fork
 
