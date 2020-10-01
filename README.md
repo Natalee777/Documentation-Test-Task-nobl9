@@ -73,7 +73,7 @@ Fork creates a copy of the repository in your Github Account for further change
 * If prompted, confirm your GitHub password
 
 
-### Cloning your fork repository
+### Cloning your fork repository (recommended) 
 
 * Go to your own Github repository and find the repository named **writingtest**
 
@@ -87,6 +87,11 @@ Fork creates a copy of the repository in your Github Account for further change
 
 The command contains the URL obtained previously.
 
+### Cloning your fork repository (prerequisite: SSH key added to your Github Account, optional)
+
+* Go to your own Github repository and find the repository named **writingtest**
+
+* Click **Code** button in **writingtest** repository to get the SSH URL
 
 ## Pushing the changes to your fork
 
