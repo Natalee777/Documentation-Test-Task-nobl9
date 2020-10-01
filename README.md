@@ -45,6 +45,7 @@ Fork creates a copy of the repository in your Github Account for further change
 
 ```eval "$(ssh-agent -s)"```
 
+![Screenshot SSH_key_2](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/SSH%20Key%202.png)
 
 ### Cloning your fork repository
 
