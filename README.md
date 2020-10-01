@@ -47,6 +47,10 @@ Fork creates a copy of the repository in your Github Account for further change
 
 ![Screenshot SSH_key_2](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/SSH%20Key%202.png)
 
+* Run the following command to add your SSH private key to the ssh-agent 
+
+```ssh-add -K ~/.ssh/id_rsa```
+
 ### Cloning your fork repository
 
 * Go to your own Github repository and find the repository named **writingtest**
