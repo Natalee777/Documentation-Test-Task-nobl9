@@ -91,7 +91,7 @@ The command contains the URL obtained previously.
 
 * Go to your own Github repository and find the repository named **writingtest**
 
-* Click **Code** button in **writingtest** repository to get the SSH URL
+* Click **Code** button in **writingtest** repository to get the SSH key
 
 ## Pushing the changes to your fork
 
