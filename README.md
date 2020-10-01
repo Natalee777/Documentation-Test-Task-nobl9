@@ -95,15 +95,19 @@ Fork creates a copy of the repository in your Github Account for further change
 
 ```git clone https://github.com/Natalee777/writingtest.git```
 
-The command contains the URL obtained previously.
+The command contains the HTTPS URL obtained previously.
 
 **Option 2: cloning your fork repository using SSHkey, prerequisite: SSH key added to your Github Account, optional**
 
 * Click **Code** button in **writingtest** repository to get the SSH key
 
+![Screenshot Get_Code_SSH](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/GetCodeSSH.png)
+
 *  Run the following command in your MacOS Terminal to clone your fork repository
 
-```git clone https://github.com/Natalee777/writingtest.git```
+```git clone git@github.com:Natalee777/writingtest.git```
+
+The command contains the host alias obtained previously.
 
 ## Pushing the changes to your fork
 
