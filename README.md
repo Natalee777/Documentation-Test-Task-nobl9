@@ -37,6 +37,10 @@ Fork creates a copy of the repository in your Github Account for further change
 
 ```ssh-keygen -t rsa -b 4096 -C "your_email@example.com"```
 
+* To accept the default file location, press Enter after the promt "Enter a file in which to save the key,". 
+
+![Screenshot SSH_key](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/SSH%20key%20Output.png)
+
 ### Cloning your fork repository
 
 * Go to your own Github repository and find the repository named **writingtest**
