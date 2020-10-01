@@ -13,22 +13,22 @@ Fork creates a copy of the repository in your Github Account for further change
 ## Cloning the fork using Git command line
 ### Installing git command line tools on a Mac
 
-* Paste this command in your MacOS Terminal to install [homebrew](https://brew.sh):
+* Paste this command in your MacOS Terminal to install [homebrew](https://brew.sh)
 
 ```bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)```
-* Install **Git**:
+* Install **Git**
 
 ```$ brew install git```
-* Set your user name in **Git**:
+* Set your user name in **Git**
 
 ```$ git config --global user.name “your_user_name”```
-* Confirm that you have set the user name correctly in **Git**:
+* Confirm that you have set the user name correctly in **Git**
 
 ```$ git config --global user.name```
-* Set your e-mail in **Git**: 
+* Set your e-mail in **Git**
 
 ```$ git config --global user.email “your_e-mail@example.com“```
-* Confirm that you have set the e-mail correctly in **Git**:
+* Confirm that you have set the e-mail correctly in **Git**
 
 ```$ git config --global user.email```
 
@@ -40,7 +40,7 @@ Fork creates a copy of the repository in your Github Account for further change
 
 ![Screenshot Get_Code](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/GetCode.png)
 
-*  Run the following command in your MacOS Terminal to clone your fork repository:
+*  Run the following command in your MacOS Terminal to clone your fork repository
 
 ```$ git clone https://github.com/Natalee777/writingtest.git```
 
@@ -49,34 +49,34 @@ The command contains the URL obtained previously.
 
 ## Pushing the changes to your fork
 
-* Edit the *README.md* file in TextEdit or other Mac text editor. Save your changes.
-* Run the following command to get into the **writingtest** directory on your Mac:
+* Edit the *README.md* file in TextEdit or other Mac text editor. Save your changes
+* Run the following command to get into the **writingtest** directory on your Mac
 
 ```$ cd writingtest```
 
-* Run the following command to see a hidden git folder in your **writingtest** directory:
+* Run the following command to see a hidden git folder in your **writingtest** directory
 
 ```$ git init```
 
-* Run the following command to see the current status of your local repository:
+* Run the following command to see the current status of your local repository
 
 ```$ git status```
 
-You should see *README.md* marked as modified
+You should see *README.md* marked as modified.
 
 ![Screenshot Output_Terminal](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/Output%20Terminal.png)
 
-* Run the following command to add this change:
+* Run the following command to add this change
 
 ```$ git add README.md```
 
 The command contains the name of the modified file.
 
-* Run ```$ git status``` command again to see the changes ready to be commited.
+* Run ```$ git status``` command again to see the changes ready to be commited
 
 ![Screenshot Output_Terminal_2](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/Output%20Teminal%202.png)
 
-* Run the following command to commit the changes:
+* Run the following command to commit the changes
 
 ```$ git commit -m "Add a comment about the change"```
 
@@ -86,13 +86,13 @@ The command contains the name of the modified file.
 
 ![Screenshot Output_Terminal_4](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/Output%20Terminal%204.png)
 
-* Run the following command to see what remote repository on Github our local repository is connected to:
+* Run the following command to see what remote repository on Github our local repository is connected to
 
 ```$ git remote -v```
 
 ![Screenshot Output_Terminal_5](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/Output%20Terminal%205.png)
 
-* Run the following command to push the changes to the repository:
+* Run the following command to push the changes to the repository
 
 ```$ git push origin master```
 
