@@ -99,7 +99,7 @@ The command contains the name of the modified file.
 ![Screenshot Output_Terminal_6](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/Output%20Terminal%206.png)
 
 * Make sure your remote repository has been updated on Github
-![Screenshot Update_GitHub]((https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/UpdateGitHub.png)
+![Screenshot Update_GitHub](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/UpdateGitHub.png)
 
 ## Merging your commit into the public repository
 
