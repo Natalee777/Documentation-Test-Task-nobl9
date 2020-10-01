@@ -58,6 +58,21 @@ Fork creates a copy of the repository in your Github Account for further change
 
 ```pbcopy < ~/.ssh/id_rsa.pub```
 
+* Open GitHub, click your profile photo, then click **Settings**
+
+* In the user settings sidebar, click **SSH and GPG key**
+
+* Click **New SSH key**
+
+* Add a descriptive label in the "Title field". For example, "Personal MacBook Air"
+
+* Paste your key into the "Key" field
+
+* Click **Add SSH key**
+
+* If prompted, confirm your GitHub password
+
+
 ### Cloning your fork repository
 
 * Go to your own Github repository and find the repository named **writingtest**
