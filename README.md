@@ -49,7 +49,7 @@ The command contains the URL obtained previously.
 
 ## Pushing the changes to your fork
 
-* Edit the README.md file in TextEdit or other Mac text editor. Save your changes.
+* Edit the *README.md* file in TextEdit or other Mac text editor. Save your changes.
 * Run the following command to get into the **writingtest** directory on your Mac:
 
 ```$ cd writingtest```
@@ -62,7 +62,7 @@ The command contains the URL obtained previously.
 
 ```$ git status```
 
-You should see README.md marked as modified
+You should see *README.md* marked as modified
 
 ![Screenshot Output_Terminal](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/Output%20Terminal.png)
 
