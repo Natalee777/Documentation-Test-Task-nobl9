@@ -54,6 +54,10 @@ Fork creates a copy of the repository in your Github Account for further change
 
 ![Screenshot SSH_key_3](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/SSH%20Key%203.png)
 
+* Run the following command to Copy the SSH key to your clipboard
+
+```pbcopy < ~/.ssh/id_rsa.pub```
+
 ### Cloning your fork repository
 
 * Go to your own Github repository and find the repository named **writingtest**
