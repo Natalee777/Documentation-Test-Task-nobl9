@@ -33,6 +33,7 @@ Fork creates a copy of the repository in your Github Account for further change
 ```$ git config --global user.email```
 
 ### Adding a new SSH key to your GitHub account (optional)
+
 * Run the following command in your MacOs Terminal to generate a new SSH key
 
 ```ssh-keygen -t rsa -b 4096 -C "your_email@example.com"```
@@ -50,6 +51,8 @@ Fork creates a copy of the repository in your Github Account for further change
 * Run the following command to add your SSH private key to the ssh-agent 
 
 ```ssh-add -K ~/.ssh/id_rsa```
+
+![Screenshot SSH_key_3](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/SSH%20Key%203.png)
 
 ### Cloning your fork repository
 
