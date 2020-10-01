@@ -24,7 +24,7 @@ Fork creates a copy of the repository in your Github Account for further change
 ```git config --global user.name “your_user_name”```
 * Confirm that you have set the user name correctly in **Git**
 
-```$ git config --global user.name```
+```git config --global user.name```
 * Set your e-mail in **Git**
 
 ```git config --global user.email “your_e-mail@example.com“```
