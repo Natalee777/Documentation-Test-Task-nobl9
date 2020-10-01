@@ -60,13 +60,21 @@ Fork creates a copy of the repository in your Github Account for further change
 
 * Open GitHub, click your profile photo, then click **Settings**
 
+![Screenshot GitHub_Settings](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/GitHub%20Settings.png)
+
 * In the user settings sidebar, click **SSH and GPG key**
+
+![Screenshot GitHub_Settings_2](https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/GitHub%20Settings%202.png)
 
 * Click **New SSH key**
 
-* Add a descriptive label in the "Title" field. For example, "Personal MacBook Air"
+![Screenshot GitHub_Settings_NewSSHKey]https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/GitHub%20Settings%20NewSSHKey.png
+
+* Add a descriptive label in the "Title" field. 
 
 * Paste your key into the "Key" field
+
+https://github.com/Natalee777/Documentation-Test-Task-nobl9/blob/main/GitHubSettings%20SSH%20Form.png
 
 * Click **Add SSH key**
 
